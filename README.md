@@ -37,7 +37,7 @@
     <img alt="Quartz" src ="https://img.shields.io/badge/Quartz 2.3.0 API-FFFFFF.svg?&style=for-the-badge&logo=quartz&logoColor=white"/><a/>&nbsp;
   <a href="https://mybatis.org/mybatis-3/apidocs/index.html">
     <img alt="MyBatis" src ="https://img.shields.io/badge/MyBatis API-78b0ff.svg?&style=for-the-badge&logo=MyBatis&logoColor=white"/><a/>&nbsp;
-  <a href="https://javadoc.io/doc/com.zaxxer/HikariCP/latest/com.zaxxer.hikari/module-summary.html">
+  <a target="_blank" href="https://javadoc.io/doc/com.zaxxer/HikariCP/latest/com.zaxxer.hikari/module-summary.html">
     <img alt="HikariCP" src ="https://img.shields.io/badge/HikariCP API-65c4c7.svg?&style=for-the-badge&logo=HikariCP&logoColor=white"/><a/>&nbsp;
 </div>
       
