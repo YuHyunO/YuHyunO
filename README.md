@@ -7,13 +7,13 @@
 
 <div align=center>
   <h2>🔨Tech Stack</h2>
-  <a href="https://github.com/openjdk">
+  <a href="https://github.com/openjdk" target="_blank">
     <img alt="Java" src ="https://img.shields.io/badge/Java-FF9950.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <a/>
-  <a href="https://github.com/spring-projects">
+  <a href="https://github.com/spring-projects" target="_blank">
     <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
   <a/>  
-  <a href="https://github.com/spring-projects">
+  <a href="https://github.com/spring-projects" target="_blank">
     <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
   <a/>
     
