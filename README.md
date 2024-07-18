@@ -1,6 +1,6 @@
 <!-- 타이틀 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=OYH%20Repository&fontSize=60)"/>
+  <!--img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=OYH%20Repository&fontSize=60)"/-->
 </div>
 
 <br/>
