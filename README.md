@@ -7,7 +7,7 @@
 
 <div align=center>
   <h2>🔗GitHub</h2>
-  <a href="https://github.com/openjdk" style="text-decoration:none;">
+  <a href="https://github.com/openjdk" style="text-decoration: none;">
     <img alt="Java" border="0" src ="https://img.shields.io/badge/Java-FF9950.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <a/>&nbsp;
   <a href="https://github.com/spring-projects" style="text-decoration: none;">
