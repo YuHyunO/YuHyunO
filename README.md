@@ -19,6 +19,9 @@
     <img alt="MyBatis" src ="https://img.shields.io/badge/MyBatis-78b0ff.svg?&style=for-the-badge&logo=MyBatis&logoColor=white"/><a/>&nbsp;
   <a href="https://github.com/brettwooldridge/HikariCP">
     <img alt="HikariCP" src ="https://img.shields.io/badge/HikariCP-65c4c7.svg?&style=for-the-badge&logo=HikariCP&logoColor=white"/><a/>&nbsp;
+  <br/>
+  <a href="https://github.com/spring-projects/spring-ai">
+    <img alt="Spring AI" src ="https://img.shields.io/badge/Spring AI-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/><a/>&nbsp;
 </div>
       
 <br/>
