@@ -43,7 +43,16 @@
   <a href="https://javadoc.io/doc/com.zaxxer/HikariCP/latest/com.zaxxer.hikari/module-summary.html">
     <img alt="HikariCP" src ="https://img.shields.io/badge/HikariCP API-65c4c7.svg?&style=for-the-badge&logo=HikariCP&logoColor=white"/><a/>&nbsp;
 </div>
-      
+
+<br/>
+<br/>
+<br/>
+
+<div align=center>
+  <h2>🛠️Languages</h2>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seung567&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 <br/>
 <br/>
 <br/>
