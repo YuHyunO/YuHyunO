@@ -1,4 +1,4 @@
-서울에서 활동하는 백엔드 개발자입니다.
+📍서울에서 활동하는 백엔드 개발자입니다.
 
 주로 **Java**를 사용하며, 스케줄러, 서비스 로직 처리, SAP 연동 등 엔터프라이즈 시스템 개발에 관심이 많습니다.  
 최근에는 TypeScript와 Drizzle ORM 같은 기술도 공부하고 있습니다.
@@ -10,6 +10,8 @@
 - Linux & AWS 기본 지식
 
 ## 📌 대표 프로젝트
+**Indigo-Dynamic**
+![Indigo-Dynamic architecture](https://github.com/YuHyunO/indigo-dynamic/blob/master/img/architecture-2.png)
 - [indigo-dynamic](https://github.com/YuHyunO/indigo-dynamic)  
   컴포넌트 조립 방식의 연계 어댑터 개발 포트폴리오
 - [Scheduler](https://github.com/YuHyunO/Scheduler)  
