@@ -22,6 +22,4 @@
   Drizzle ORM 포크 및 기여
 
 ## 📊 GitHub Stats
-![YuHyunO's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuHyunO&show_icons=true&theme=radical&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuHyunO&layout=compact&theme=radical&count_private=true)
