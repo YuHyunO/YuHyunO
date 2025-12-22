@@ -4,7 +4,7 @@
 최근에는 TypeScript와 Drizzle ORM 같은 기술도 공부하고 있습니다.
 
 ## 🔧 주요 기술 스택
-- **Java** (Spring, Netty, CGLIB, Quartz, MyBatis)
+- **Java** (Spring, Netty, CGLIB, Quartz, MyBatis, etc.)
 - **TypeScript** / Node.js
 - ORM (Drizzle ORM)
 - Linux & AWS 기본 지식
