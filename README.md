@@ -12,8 +12,8 @@
 ------
 
 ## 📌 대표 프로젝트
-### 🔵Indigo-Dynamic - [indigo-dynamic](https://github.com/YuHyunO/indigo-dynamic)  
-![Indigo-Dynamic architecture](https://github.com/YuHyunO/indigo-dynamic/blob/master/img/architecture-2.png)
+### 🔵Indigo-Dynamic 
+- [indigo-dynamic](https://github.com/YuHyunO/indigo-dynamic)
   컴포넌트 조립 방식의 연계 어댑터 개발 포트폴리오
 
 ### 🔵Scheduler
