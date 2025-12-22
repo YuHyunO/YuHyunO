@@ -5,16 +5,16 @@
 ------
 
 ## 🔧 주요 기술 스택
-- **Java** (Spring, Quartz 등)
+- **Java** (Spring, Netty, CGLIB, Quartz, MyBatis)
 - **TypeScript** / Node.js
-- ORM (Drizzle ORM 등)
+- ORM (Drizzle ORM)
 - Linux & AWS 기본 지식
 ------
 
 ## 📌 대표 프로젝트
-#### 🔵Indigo-Dynamic 
+#### 🔵Indigo-Dynamic
 - [indigo-dynamic](https://github.com/YuHyunO/indigo-dynamic)  
-  컴포넌트 조립 방식의 연계 어댑터 개발 포트폴리오
+  포트폴리오—컴포넌트 조립 방식의 연계 어댑터 개발
 
 #### 🔵Scheduler
 - [Scheduler](https://github.com/YuHyunO/Scheduler)  
