@@ -2,14 +2,12 @@
 
 주로 **Java**를 사용하며, 스케줄러, 서비스 로직 처리, SAP 연동 등 엔터프라이즈 시스템 개발에 관심이 많습니다.  
 최근에는 TypeScript와 Drizzle ORM 같은 기술도 공부하고 있습니다.
-------
 
 ## 🔧 주요 기술 스택
 - **Java** (Spring, Netty, CGLIB, Quartz, MyBatis)
 - **TypeScript** / Node.js
 - ORM (Drizzle ORM)
 - Linux & AWS 기본 지식
-------
 
 ## 📌 대표 프로젝트
 #### 🔵Indigo-Dynamic
@@ -35,7 +33,6 @@
 #### 🔵Drizzle ORM (Fork)
 - [drizzle-orm (Fork)](https://github.com/YuHyunO/drizzle-orm)  
   Drizzle ORM 포크 및 기여
-------
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuHyunO&layout=compact&theme=radical&count_private=true)
