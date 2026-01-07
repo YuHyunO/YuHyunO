@@ -12,7 +12,7 @@
 ## 📌 대표 프로젝트
 #### 🔵Indigo-Dynamic(Private)
 - [indigo-dynamic](https://github.com/YuHyunO/indigo-dynamic)  
-  포트폴리오—컴포넌트 조립 방식의 연계 어댑터 개발
+  컴포넌트 조립 방식의 연계 어댑터 개발
 
 #### 🔵Scheduler
 - [Scheduler](https://github.com/YuHyunO/Scheduler)  
