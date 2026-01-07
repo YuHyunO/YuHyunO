@@ -34,5 +34,3 @@
 - [drizzle-orm (Fork)](https://github.com/YuHyunO/drizzle-orm)  
   Drizzle ORM 포크 및 기여
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuHyunO_username&layout=compact&theme=default)
